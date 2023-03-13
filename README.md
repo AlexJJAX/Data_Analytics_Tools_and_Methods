@@ -1,6 +1,6 @@
 # PSQL to Python
 
-## What does the code do ?
+## What does the [code](https://github.com/AlexJJAX/Forecasting-in-Python/blob/main/ar_python.py) do ?
 
 This code snippet defines a function query_database that queries a PostgreSQL database using the provided database_uri and query and returns the result as a Pandas DataFrame.
 
