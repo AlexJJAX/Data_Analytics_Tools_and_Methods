@@ -1,6 +1,6 @@
 # PSQL to Python
 
-## What the code does ?
+## What does the code do ?
 
 This code snippet defines a function query_database that queries a PostgreSQL database using the provided database_uri and query and returns the result as a Pandas DataFrame.
 
