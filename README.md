@@ -4,7 +4,7 @@
 
 The ETL (Extract, Transform, Load) process involves extracting data from a source system, transforming it to meet the desired format or structure, and loading it into a target system. 
 
-## What does the [code](https://github.com/AlexJJAX/Forecasting-in-Python/blob/main/ar_python.py) do?
+## What does the [code](https://github.com/AlexJJAX/Data_Analytics_Tools_and_Methods/blob/ETL-simple-tutorial/ETL.py) do?
 
 The code extracts data from the source Excel file, applies several transformations and saves the transformed data to a new Excel file in the load phase. The ETL process can be expanded to handle more complex data transformations, integration with multiple data sources, and loading into various target systems.
 
